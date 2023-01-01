@@ -1,4 +1,3 @@
 [![](https://raw.githubusercontent.com/hayato-yoshino/hayato-yoshino/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![trophy](https://github-profile-trophy.vercel.app/?username=hayato-yoshino&theme=dracula&margin-w=6&no-frame=true&title=Joined2020,Commit,PullRequest,Repositories,Issues,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 [![](https://raw.githubusercontent.com/hayato-yoshino/hayato-yoshino/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hayato-yoshino/hayato-yoshino/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
