@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/hayato-yoshino/hayato-yoshino/master/profile-summary-card-output/highcontrast/4-productive-time.svg)
-```
-
-    
